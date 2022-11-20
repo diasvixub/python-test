@@ -6,7 +6,7 @@
 
 ## В этом репозитории находятся
 
-1. [Уроки](https://github.com/diasvixub/python-test/blob/main/lessons.md)
+1. [Основы Python](https://github.com/diasvixub/python-test/blob/main/lessons.md)
 2. [Задачи]()
 3. [Решения]()
 
