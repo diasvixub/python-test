@@ -7,8 +7,7 @@
 ## Содержание
 
 1. [Основы Python](https://github.com/diasvixub/python-test/blob/main/lessons.md)
-2. [Задачи]()
-3. [Решения]()
+2. [Задачи](https://github.com/diasvixub/python-test/blob/main/tasks.md)
 
 Вы можете ознакомится с [презентацией](https://github.com/diasvixub/python-test/blob/main/Презентация.ppt), которая использовалась на паре для обучения. Из неё же взяты все задачи.
 
