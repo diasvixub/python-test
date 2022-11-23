@@ -1806,8 +1806,8 @@ abcd10
   d = int(input('Разность d: '))
   c = [0] * b
   for i in range(b):
-    c[i] = a + d * (b - 1)
-    b -= 1
+      c[i] = a + d * (b - 1)
+      b -= 1
   print(*c[::-1])
   ```
 </details>
