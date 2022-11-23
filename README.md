@@ -8,7 +8,7 @@
 
 1. [Основы Python](https://github.com/diasvixub/python-test/blob/main/lessons.md)
 2. [Задачи](https://github.com/diasvixub/python-test/blob/main/tasks.md)
-3. .py исходники задач
+3. [.py исходники задач](https://github.com/diasvixub/python-test/tree/main/py)
     - [Задачи для повторения](https://github.com/diasvixub/python-test/tree/main/py/test)
     - [Задачи из презентации](https://github.com/diasvixub/python-test/tree/main/py/ex)
     - [Задачи из беседы](https://github.com/diasvixub/python-test/tree/main/py/vk)
