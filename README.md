@@ -2,12 +2,16 @@
 
 ## Цель
 
-Репозиторий создается для моих одногруппников для закрепления знаний по языку программирования Python, решения задач и для последующей успешной сдачи зачета.
+Репозиторий создается для моих одногруппников для закрепления знаний по языку программирования Python, решения задач и последующей успешной сдачи зачета.
 
 ## Содержание
 
 1. [Основы Python](https://github.com/diasvixub/python-test/blob/main/lessons.md)
 2. [Задачи](https://github.com/diasvixub/python-test/blob/main/tasks.md)
+3. .py исходники задач
+    - [Задачи для повторения](https://github.com/diasvixub/python-test/tree/main/py/test)
+    - [Задачи из презентации](https://github.com/diasvixub/python-test/tree/main/py/ex)
+    - [Задачи из беседы](https://github.com/diasvixub/python-test/tree/main/py/vk)
 
 Вы можете ознакомится с [презентацией](https://github.com/diasvixub/python-test/blob/main/Презентация.ppt), которая использовалась на паре для обучения. Из неё же взяты все задачи.
 
